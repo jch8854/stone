@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/log4j.properties=UTF-8
+encoding//src/servlets/board/BoardDeleteServlet.java=UTF-8
+encoding//src/servlets/board/BoardListServlet.java=UTF-8
+encoding//src/servlets/board/BoardModifyServlet.java=UTF-8
+encoding//src/servlets/board/BoardViewServlet.java=UTF-8
+encoding//src/servlets/board/BoardWriteServlet.java=UTF-8
